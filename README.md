@@ -2,8 +2,8 @@
 
 ### activate
 
-    $ docker build -t 6pongi/hbase .
-    $ ./start-hbase.sh
+    $ sudo docker build -t 6pongi/hbase .
+    $ sudo ./start-hbase.sh
 
 ### operation memo
 
